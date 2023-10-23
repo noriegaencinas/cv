@@ -19,8 +19,9 @@
 .timeline-body {
   border-left: 2px solid #E6E9ED; }
 
-.derecha {
-  float: right;
+.centro {
+  display: flex;
+  justify-content: center;
 }
 
 .timeline-card-primary:before {
