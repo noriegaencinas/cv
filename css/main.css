@@ -19,6 +19,10 @@
 .timeline-body {
   border-left: 2px solid #E6E9ED; }
 
+.derecha {
+  float: right;
+}
+
 .timeline-card-primary:before {
   border-color: var(--bs-primary); }
 
